@@ -1,5 +1,9 @@
 First Line: Hello World in Git source control Management!
 
+<<<<<<< HEAD
 Master Copy: Master Copy line has added
 
 First Branch Line : This line has been added in First-Branch
+=======
+Second Branch :Second Branch Line has been added. 
+
